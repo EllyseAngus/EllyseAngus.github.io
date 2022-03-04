@@ -1,0 +1,64 @@
+#home-title{
+    font-family:"Trirong", serif;
+}
+
+
+img {
+    width: 386px;
+    aspect-ratio: auto 386 / 577;
+    height: 577px;
+    object-fit: cover;
+}
+
+.navbar{
+    background-color: #232935;
+}
+
+.blue-text{
+    color: #232935;
+}
+
+.header{
+    background-color: #A0BDD9;
+}
+
+.white-text{
+    color: white !important;
+}
+
+.footer{
+    background-color: #D5E2ED;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+.flower{
+    width: 160px;
+    height: 150px;
+}
+
+.logo{
+    width:184px;
+    height:151px;
+    margin: 0 auto;
+}
+
+.left{
+    float:left;
+}
+
+.right{
+    float:right;
+}
+
+.header-text{
+    font-family: Tangerine;
+    font-weight: 700;
+    font-size: 4em;
+}
+
+.classes-title{
+    text-decoration: underline;
+    font-weight: bold;
+}
