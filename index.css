@@ -2,6 +2,9 @@
     font-family:"Trirong", serif;
 }
 
+#myPicture{
+    height: 70vh;
+}
 
 img {
     width: 386px;
@@ -58,7 +61,36 @@ img {
     font-size: 4em;
 }
 
-.classes-title{
+.title-text{
     text-decoration: underline;
     font-weight: bold;
+}
+
+a:hover{
+    color: white;
+}
+
+.carousel{
+    height: 50vh;
+    width: auto;
+}
+
+.carousel-inner img {
+    margin: auto;
+    height: 50vh;
+    width: auto;
+}
+
+.carousel-text{
+    font-size: .65em;
+}
+.carousel-caption{
+    color: #232935;
+    background-color: rgba(213, 226, 237, 0.5);
+    font-weight: bold;
+    left: 40% !important;
+    right: 40% !important;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    filter: brightness(0) saturate(100%) invert(14%) sepia(7%) saturate(1973%) hue-rotate(182deg) brightness(91%) contrast(92%);
 }
