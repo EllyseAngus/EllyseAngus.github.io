@@ -66,6 +66,14 @@ img {
     font-weight: bold;
 }
 
+.gray-text{
+    color: #5e5e5e;
+}
+
+.light-gray-text{
+    color: #707070;
+}
+
 a:hover{
     color: white;
 }
