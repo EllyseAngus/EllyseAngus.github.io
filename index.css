@@ -74,8 +74,21 @@ img {
     color: #707070;
 }
 
-a:hover{
+.footer-links:hover{
     color: white;
+}
+
+a{
+    color: #5e5e5e;
+    text-decoration: none;
+}
+
+.links{
+    font-weight: bold;
+}
+
+.links:hover{
+    color: #A0BDD9;
 }
 
 .carousel{
