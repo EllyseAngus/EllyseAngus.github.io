@@ -91,6 +91,10 @@ a{
     color: #A0BDD9;
 }
 
+.navbar-links:hover{
+    color: #A0BDD9 !important;
+}
+
 .carousel{
     height: 50vh;
     width: auto;
