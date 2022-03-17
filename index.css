@@ -1,3 +1,30 @@
+::-webkit-scrollbar {
+    width: 13px !important;
+    -webkit-appearance: none;
+}
+
+::-webkit-scrollbar-track {
+    background: #e4e9ed !important;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #181b21 !important;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #080f1c !important;
+}
+
+::-moz-selection {
+    color: white;
+    background: #A0BDD9;
+}
+
+::selection {
+    color: white;
+    background: #A0BDD9;
+}
+
 #home-title{
     font-family:"Trirong", serif;
 }
