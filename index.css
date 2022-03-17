@@ -6,6 +6,12 @@
     height: 70vh;
 }
 
+.sticky-picture{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 80px;
+}
+
 img {
     width: 386px;
     aspect-ratio: auto 386 / 577;
@@ -37,13 +43,13 @@ img {
 }
 
 .flower{
-    width: 160px;
-    height: 150px;
+    width: 12vw;
+    height: 11vw;
 }
 
 .logo{
-    width:184px;
-    height:151px;
+    width:14.4vw;
+    height:11.1vw;
     margin: 0 auto;
 }
 
