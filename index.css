@@ -34,8 +34,8 @@
 }
 
 #image404{
-    height: 50vh;
-    width: auto;
+    height: 50vh !important;
+    width: auto !important;
 }
 
 .sticky-picture{
