@@ -33,6 +33,11 @@
     height: 70vh;
 }
 
+#image404{
+    height: 50vh;
+    width: auto;
+}
+
 .sticky-picture{
     position: -webkit-sticky;
     position: sticky;
