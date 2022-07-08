@@ -127,6 +127,10 @@ a{
     text-decoration: none;
 }
 
+ul {
+    list-style-type: circle;
+}
+
 .links{
     font-weight: bold;
 }
