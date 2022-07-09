@@ -44,6 +44,21 @@
     top: 80px;
 }
 
+.side-by-side{
+    display: inline-block;
+    vertical-align: text-top;
+    margin-bottom: 10px;
+    justify-content:center !important;
+}
+
+.large-card{
+    height: 18em;
+}
+
+.small-card{
+    height: 7em;
+}
+
 img {
     width: 386px;
     aspect-ratio: auto 386 / 577;
