@@ -55,6 +55,10 @@
     height: 18em;
 }
 
+.medium-large-card{
+    height: 11em;
+}
+
 .medium-card{
     height: 9em;
 }
@@ -126,6 +130,10 @@ body{
 
 .title-text{
     text-decoration: underline;
+    font-weight: bold;
+}
+
+.bold{
     font-weight: bold;
 }
 
