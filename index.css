@@ -55,6 +55,10 @@
     height: 18em;
 }
 
+.medium-card{
+    height: 9em;
+}
+
 .small-card{
     height: 7em;
 }
