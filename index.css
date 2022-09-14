@@ -81,6 +81,11 @@
     height: 7em;
 }
 
+.hover-animation:hover{
+    transform: scale(1.05, 1.05);
+    z-index: 3;
+}
+
 img {
     width: 386px;
     aspect-ratio: auto 386 / 577;
