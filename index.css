@@ -1,3 +1,17 @@
+/*Theming Set Up*/
+:root{
+    --background-color: #FFF;
+}
+
+.light{
+    --background-color: #FFF;
+}
+
+.dark{
+    --background-color: #11141a;
+}
+/*To be Finished Later*/
+
 ::-webkit-scrollbar {
     width: 13px !important;
     -webkit-appearance: none;
